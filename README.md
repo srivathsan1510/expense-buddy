@@ -1,16 +1,12 @@
-# expense_buddy
+# Expense Buddy
 
-A new Flutter project.
+A small Flutter web app to track daily expenses. Upgrades: persisted data (Hive), charts (fl_chart), CSV export, search & filters.
 
-## Getting Started
+Live demo: https://yourusername.github.io/expense-buddy
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Add / edit / delete expenses
+- Category breakdown chart
+- Search and month filter
+- Export CSV for downloads
+- Persistent storage via Hive
