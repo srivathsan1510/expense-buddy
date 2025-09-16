@@ -2,7 +2,7 @@
 
 A small Flutter web app to track daily expenses. Upgrades: persisted data (Hive), charts (fl_chart), CSV export, search & filters.
 
-Live demo: https://yourusername.github.io/expense-buddy
+Live demo: https://srivathsan1510.github.io/expense-buddy
 
 ## Features
 - Add / edit / delete expenses
